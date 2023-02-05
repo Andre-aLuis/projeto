@@ -1,0 +1,21 @@
+body {
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: lightgray;
+}
+
+#paragraph-result {
+  color: darkgoldenrod;
+  background-color: aquamarine;
+  margin-top: 35px;
+  font-weight: bold;
+}
+
+input {
+  width: 100px;
+  margin-top: 5px;
+}
+
+label {
+  font-family: 'JetBrains Mono';
+}

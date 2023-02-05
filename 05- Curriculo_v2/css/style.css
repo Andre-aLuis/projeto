@@ -1,0 +1,47 @@
+body {
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: lightgray;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-align: center;
+}
+
+button {
+  cursor: not-allowed;
+}
+
+table {
+  margin: auto;
+  font-weight: normal;
+  user-select: none;
+}
+th,
+td {
+  padding: 5px;
+}
+tbody tr:nth-child(even) {
+  background-color: darkseagreen;
+}
+tbody tr:nth-child(odd) {
+  background-color: lightskyblue;
+}
+tbody tr:hover {
+  background-color: bisque;
+  user-select: none;
+}
+
+.title {
+  color: darkcyan;
+}
+
+.author {
+  text-align: left;
+  font-style: italic;
+  color: burlywood;
+}

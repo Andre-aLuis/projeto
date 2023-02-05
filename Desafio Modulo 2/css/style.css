@@ -1,0 +1,37 @@
+body {
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: lightgray;
+}
+
+table {
+  border-collapse: collapse;
+  border-radius: 1em;
+  overflow: hidden;
+}
+
+th,
+td {
+  padding: 1em;
+  background: #ddd;
+  border-bottom: 2px solid white;
+}
+
+#div{
+  padding: 1em;
+  background: #c41313;
+  border-bottom: 2px solid white;
+  display: inline-block;
+}
+.divheader{
+  color: aliceblue;
+  font-weight: bold;
+  text-align: center;
+}
+
+.divvalor{
+  color: coral;
+  font-weight: bold;
+}
+
+
